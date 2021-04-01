@@ -37,6 +37,8 @@ ZSH_THEME="node"
 
 iTerm palette: Import [this](./palette.itermcolors) from iTerm settings
 
+Setup SSH keys for Github [Docs](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
+
 ## 3 CLI Tools
 
 - [brew](https://brew.sh/)
