@@ -35,6 +35,8 @@ Place [node theme](./node.zsh-theme) on `~/.oh-my-zsh/themes`, and then configur
 ZSH_THEME="node"
 ```
 
+iTerm palette: Import [this](./palette.itermcolors) from iTerm settings
+
 ## 3 CLI Tools
 
 - [brew](https://brew.sh/)
