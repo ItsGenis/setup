@@ -35,9 +35,10 @@ Place [node theme](./node.zsh-theme) on `~/.oh-my-zsh/themes`, and then configur
 ZSH_THEME="node"
 ```
 
-iTerm palette: Import [this](./palette.itermcolors) from iTerm settings
-iTerm font: [Fira Code](https://github.com/tonsky/FiraCode)
+* iTerm palette: Import [this](./palette.itermcolors) from iTerm settings
+* iTerm font: [Fira Code](https://github.com/tonsky/FiraCode)
 
+### 2.1 Keys
 Setup SSH keys for Github [Docs](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 
 ## 3 CLI Tools
