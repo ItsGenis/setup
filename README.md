@@ -69,7 +69,3 @@ Extensions:
 - Vetur
 
 Config file: [settings.json](./vscode-settings.json)
-
----
-
-Last update: March 31st 2021
