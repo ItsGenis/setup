@@ -36,6 +36,7 @@ ZSH_THEME="node"
 ```
 
 iTerm palette: Import [this](./palette.itermcolors) from iTerm settings
+iTerm font: [Fira Code](https://github.com/tonsky/FiraCode)
 
 Setup SSH keys for Github [Docs](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 
